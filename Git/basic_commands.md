@@ -1,1 +1,27 @@
 # basic commands
+
+- **touch**: make a file.
+    - working directory: a.txt
+    - subdirectory: folder/a.txt
+- **mkdir**: make a folder .
+    - mkdir git-practice
+- **ls**(list segment): display folders and files in the current directory.
+    - **ls -a**
+        - ./: current directory
+        - ../: parent directory
+- **cd**(change directory): change the current directory into a new directory.
+- **rm**(remove): delete a file.
+    - rm a.txt
+- **git status**: display the state of the working directory and the staging area.
+- **git add {file_name}**: add new files or modified files in the working directory to the staging area.
+    - **git add .**: apply it to all of the files in the working directory.
+- **code .** : execute VSCode
+- **git config --global {user.email} {user's email}**: set user's email.
+- **git config --global {user.name} '{user's name}'**: set user's name.
+- **git commit -m ‘{message}’**: commit with a message. There is not any specific regulation about writing a message. But generally, it contains the reason why a new version was committed.
+- **git log**: display the history of commits in the repository.
+    - **git log --oneline**: display it briefly.
+- **clear**:(=control+l): clear the terminal.
+- **git remote add origin {remote_repo_url}**: add the remote repository to the local repository with the name 'origin.'
+- **git push origin master**: upload the local repository contents to the remote repository.
+    - **git push -u origin master**: after using this command, you can upload by using just the '**git push**' command.
