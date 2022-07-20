@@ -1,9 +1,9 @@
 # list comprehention
 
 >**references**
-    - https://www.geeksforgeeks.org/python-list-comprehension/
-    - https://dojang.io/mod/page/view.php?id=2285
-    - https://www.w3schools.com/python/python_lists_comprehension.asp
+>- https://www.geeksforgeeks.org/python-list-comprehension/
+>- https://dojang.io/mod/page/view.php?id=2285
+>- https://www.w3schools.com/python/python_lists_comprehension.asp
 
 <br/>
 
