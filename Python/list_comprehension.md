@@ -1,4 +1,4 @@
-# list comprehention
+# list comprehension
 
 >**references**
 >- https://www.geeksforgeeks.org/python-list-comprehension/
@@ -7,7 +7,7 @@
 
 <br/>
 
-- **What is a list comprehention?**
+- **What is a list comprehension?**
     - Making a new list from an already created list with using *for* loop.
     - It is charming from efficiency point of view.
 
