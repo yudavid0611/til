@@ -8,4 +8,5 @@
 
 ## Python
 - [lambda and etc.](https://github.com/yudavid0611/til/blob/master/Python/lambda_and_etc..md)
-- [list comprehension.](https://github.com/yudavid0611/til/blob/master/Python/list_comprehension.md)
+- [list comprehension](https://github.com/yudavid0611/til/blob/master/Python/list_comprehension.md)
+- [arguments](https://github.com/yudavid0611/til/blob/master/Python/arguments.md)
