@@ -1,4 +1,4 @@
-# about git
+# About git
 
 ## Introduction
 - basic information about git.

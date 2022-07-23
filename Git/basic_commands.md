@@ -1,4 +1,4 @@
-# basic commands
+# Basic commands
 
 ## Introduction
 - basic commands of git.

@@ -1,4 +1,4 @@
-# list comprehension
+# List comprehension
 
 >**references**
 >- https://www.geeksforgeeks.org/python-list-comprehension/

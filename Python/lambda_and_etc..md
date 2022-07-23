@@ -1,4 +1,4 @@
-# lambda and etc.
+# Lambda and etc.
 
 ## Introduction
 - introduct the lambda function and other functions that are related to the lambda function.
