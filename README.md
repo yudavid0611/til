@@ -12,4 +12,5 @@
 - [lambda and etc.](https://github.com/yudavid0611/til/blob/master/Python/lambda_and_etc..md)
 - [list](https://github.com/yudavid0611/til/blob/master/Python/list.md)
 - [list comprehension](https://github.com/yudavid0611/til/blob/master/Python/list_comprehension.md)
+- [sequence type operator](https://github.com/yudavid0611/til/blob/master/Python/sequence_type_operator.md)
 - [string](https://github.com/yudavid0611/til/blob/master/Python/string.md)
