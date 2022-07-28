@@ -9,6 +9,7 @@
 
 ## Python
 - [arguments](https://github.com/yudavid0611/til/blob/master/Python/arguments.md)
+- [dictionary](https://github.com/yudavid0611/til/blob/master/Python/dictionary.md)
 - [lambda and etc.](https://github.com/yudavid0611/til/blob/master/Python/lambda_and_etc..md)
 - [list](https://github.com/yudavid0611/til/blob/master/Python/list.md)
 - [list comprehension](https://github.com/yudavid0611/til/blob/master/Python/list_comprehension.md)
