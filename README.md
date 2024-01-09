@@ -12,7 +12,8 @@
 <br>
 
 ## Design Pattern
-- [Singleton](https://github.com/yudavid0611/til/blob/master/Design_Pattern/singletorn.ipynb)
+- [Singleton](https://github.com/yudavid0611/til/blob/master/Design_Pattern/Singletorn.ipynb)
+- [Strategy](https://github.com/yudavid0611/til/blob/master/Design_Pattern/Strategy.ipynb)
 
 <br>
 
