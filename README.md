@@ -1,5 +1,22 @@
 # TIL(Today I Learned)
 
+## Async
+- [async_test](https://github.com/yudavid0611/til/blob/master/async/async_test.ipynb)
+
+<br>
+
+## Design Pattern
+- [Observer](https://github.com/yudavid0611/til/blob/master/Design_Pattern/observer.ipynb)
+- [Singleton](https://github.com/yudavid0611/til/blob/master/Design_Pattern/singletorn.ipynb)
+- [Strategy](https://github.com/yudavid0611/til/blob/master/Design_Pattern/strategy.ipynb)
+
+<br>
+
+## FastAPI
+- [test](https://github.com/yudavid0611/til/blob/master/fastapi/test)
+
+<br>
+
 ## Git
 - [about git](https://github.com/yudavid0611/til/blob/master/Git/about_git.md)
 - [basic commands](https://github.com/yudavid0611/til/blob/master/Git/basic_commands.md)
@@ -8,13 +25,6 @@
 
 ## JavaScript
 - [basic](https://github.com/yudavid0611/til/blob/master/JavaScript/basic.ipynb)
-
-<br>
-
-## Design Pattern
-- [Observer](https://github.com/yudavid0611/til/blob/master/Design_Pattern/observer.ipynb)
-- [Singleton](https://github.com/yudavid0611/til/blob/master/Design_Pattern/singletorn.ipynb)
-- [Strategy](https://github.com/yudavid0611/til/blob/master/Design_Pattern/strategy.ipynb)
 
 <br>
 
